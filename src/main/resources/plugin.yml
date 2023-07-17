@@ -1,0 +1,4 @@
+name: WoolWars
+version: '${project.version}'
+main: me.tiie.woolwars.WoolWars
+api-version: 1.20
